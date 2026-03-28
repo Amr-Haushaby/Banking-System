@@ -30,3 +30,7 @@ The focus is not only on features, but also on **clean code principles**:
 The system is designed to be easy to extend and understand, making it a strong foundation for more advanced banking features in future versions.
 
 ---
+
+👉 [Watch (Project Bank v1) Video](https://amr-haushaby.de/projects-videos-file/videospage#project-3-title)
+👉 [Watch (Project Bank v1.1) Video](https://amr-haushaby.de/projects-videos-file/videospage#project-4-title)
+
